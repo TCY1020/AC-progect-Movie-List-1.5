@@ -1,0 +1,8 @@
+.current-status {
+  color: red;
+}
+
+.navbar-brand:hover {
+  transform: rotate(1turn);
+  transition-duration: 0.7s;
+}
